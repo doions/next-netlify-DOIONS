@@ -5,7 +5,7 @@ export default function Footer() {
     <>
       <footer className={styles.footer}>
     <form name="contact" mothod="POST" netlify>
-    <input type="hidden" name="form-name" value="contact" />
+    <input type="hidden" name="contact" value="contact" />
   <p>
     <label>Name <input type="text" name="name" /></label>
   </p>
