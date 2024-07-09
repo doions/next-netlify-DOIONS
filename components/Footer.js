@@ -1,6 +1,6 @@
 import styles from './Footer.module.css'
 import Image from 'next/image';
-import emailIcon from "./email.svg";
+import emailIcon from "/email.svg";
 
 
 
