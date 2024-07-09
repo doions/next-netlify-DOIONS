@@ -1,4 +1,6 @@
 import styles from './Footer.module.css'
+import twitterIcon from "../../public/email.svg";
+
 
 
 import { useState } from 'react';
