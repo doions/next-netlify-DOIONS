@@ -39,7 +39,7 @@ export default function Home() {
   return (
     <>
       <main>
-      <img src="/email.svg"/>
+      <img src="/email.svg" width="100"/>
       </main>
     </>
   );
