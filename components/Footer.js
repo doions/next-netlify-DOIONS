@@ -1,5 +1,6 @@
 import styles from './Footer.module.css'
-import twitterIcon from "../../public/email.svg";
+import Image from 'next/image';
+import emailIcon from "../../public/email.svg";
 
 
 
@@ -39,7 +40,11 @@ export default function Home() {
   return (
     <>
       <main>
-       Contact: 
+       <Image
+      priority
+      src={emailIcon}
+      alt="Email to @doions"
+    />
       </main>
     </>
   );
