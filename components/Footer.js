@@ -38,7 +38,7 @@ export default function Home() {
   return (
     <>
       <main>
-   <span style={{paddingLeft: 10px;}}> <a href="mailto:mindsarray@gmail.com"><img src="/email.svg" width="30"/></a>
+   <span className="footerspan"> <a href="mailto:mindsarray@gmail.com"><img src="/email.svg" width="30"/></a>
     
     <a href="https://wa.me/918928399570"><img src="/whatsapp.svg" width="30"/></a>
     </span>
