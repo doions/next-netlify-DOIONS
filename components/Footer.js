@@ -39,6 +39,7 @@ export default function Home() {
     <>
       <main>
    <span> <a href="mailto:mindsarray@gmail.com"><img src="/email.svg" width="30" className="footerspan"/></a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     
     <a href="https://wa.me/918928399570"><img src="/whatsapp.svg" width="30" className="footerspan"/></a>
     </span>
