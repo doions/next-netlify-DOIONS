@@ -24,12 +24,7 @@ export default function About() {
         </div>
     </header>
 
-    <section id="showcase">
-        <div class="container">
-            <h1>Welcome to DOIONS</h1>
-            <p>Your trusted partner in AI-driven automation solutions</p>
-        </div>
-    </section>
+    
 
     <div id="main-content" class="container">
         <h2 class="section-title">Who We Are</h2>
