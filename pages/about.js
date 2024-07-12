@@ -69,7 +69,7 @@ const headerStyle = {
 };
 
 const containerStyle = {
-    width: '80%',
+    width: '60%',
     margin: 'auto',
     overflow: 'hidden',
 };
