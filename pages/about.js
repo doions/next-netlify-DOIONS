@@ -12,7 +12,7 @@ export default function About() {
 
       <main>
       <header>
-        <div class="container">
+        <div class="container-about">
             <div id="branding">
                 <h1>DOIONS</h1>
             </div>

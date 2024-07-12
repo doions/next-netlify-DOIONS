@@ -34,6 +34,11 @@ code {
   justify-content: center;
   align-items: center;
 }
+.container-about {
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+}
 header {
   background: #333;
   color: #fff;
