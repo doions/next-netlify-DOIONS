@@ -97,6 +97,8 @@ const showcaseStyle = {
     background: "url('showcase.jpg') no-repeat 0 -400px",
     textAlign: 'center',
     color: '#fff',
+    width: '60%'
+
 };
 
 const mainContentStyle = {
