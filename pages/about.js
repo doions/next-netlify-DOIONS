@@ -4,13 +4,11 @@ import Footer from '@components/Footer'
 
 export default function About() {
   return (
-    <div className="container">
       <Head>
         <title>DOIONS - An AI Automation Company</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main>
       <header>
         <div class="container-about">
             <div id="branding">
@@ -64,9 +62,7 @@ export default function About() {
     <footer>
         <p>&copy; 2024 DOIONS. All rights reserved.</p>
     </footer>     
-     </main>
 
-      <Footer />
-    </div>
+    
   )
 }
