@@ -104,7 +104,8 @@ const showcaseStyle = {
 const mainContentStyle = {
     padding: '20px',
     background: '#ffffff',
-    width:'60%'
+    width:'60%',
+    align: 'center'
 };
 
 const sectionTitleStyle = {
