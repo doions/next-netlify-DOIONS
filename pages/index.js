@@ -1,16 +1,6 @@
 import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
-const ulStyle = {
-  padding: 0,
-  listStyle: 'none',
-};
-
-const liStyle = {
-  float: 'left',
-  display: 'inline',
-  padding: '0 20px',
-};
 
 export default function Home() {
   return (
@@ -19,6 +9,9 @@ export default function Home() {
         <title>DOIONS - An AI Automation Company</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
+      <main>
+       <img src="/logo.png" alt="DOIONS Logo"/>
+      </main>
       <div>
       <nav>
                         <ul style={ulStyle}>
@@ -29,11 +22,18 @@ export default function Home() {
                         </ul>
                     </nav>
                     </div>
-      <main>
-       <img src="/logo.png" alt="DOIONS Logo"/>
-      </main>
-
+     
       <Footer />
     </div>
   )
 }
+const ulStyle = {
+  padding: 0,
+  listStyle: 'none',
+};
+
+const liStyle = {
+  float: 'left',
+  display: 'inline',
+  padding: '0 20px',
+};
