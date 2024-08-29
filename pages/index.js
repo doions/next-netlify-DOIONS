@@ -11,16 +11,11 @@ export default function Home() {
       </Head>
       <main>
        <img src="/logo.png" alt="DOIONS Logo"/>
+       <p>AI company from India</p>
       </main>
+      
       <div>
-      <nav>
-                        <ul style={ulStyle}>
-                            <li style={liStyle}><a style={aStyle} href="#">Home</a></li>
-                            <li style={liStyle}><a style={aStyle} href="#">About Us</a></li>
-                            <li style={liStyle}><a style={aStyle} href="#">Services</a></li>
-                            <li style={liStyle}><a style={aStyle} href="#">Contact Us</a></li>
-                        </ul>
-                    </nav>
+     
                     </div>
      
       <Footer />
