@@ -22,13 +22,3 @@ export default function Home() {
     </div>
   )
 }
-const ulStyle = {
-  padding: 0,
-  listStyle: 'none',
-};
-
-const liStyle = {
-  float: 'left',
-  display: 'inline',
-  padding: '0 20px',
-};
